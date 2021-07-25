@@ -1,5 +1,5 @@
 # FPGA-lathe-simulation-system
-同济大学CS《数字逻辑》大作业: 车床仿真系统TongJi University CS digital logic homework: lathe simulation system
+同济大学CS《数字逻辑》大作业: 车床仿真系统TongJi University CS digital logic assignment: lathe simulation system
 ## 概述
 
 本项目是为2019年同济大学计算机系数字逻辑课程期末作业。基于NEXYS 4 DDR Atrix-7开发板的一款车床仿真系统。
