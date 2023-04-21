@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Mon Jan 13 10:28:35 2020
+# Process ID: 17064
+# Current directory: G:/files/DigitalLogic/finalhomework/os-app
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent92 G:\files\DigitalLogic\finalhomework\os-app\os-app.xpr
+# Log file: G:/files/DigitalLogic/finalhomework/os-app/vivado.log
+# Journal file: G:/files/DigitalLogic/finalhomework/os-app\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project G:/files/DigitalLogic/finalhomework/os-app/os-app.xpr
+update_compile_order -fileset sources_1
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {G:/files/DigitalLogic/finalhomework/os-app/os-app.runs/impl_1/top.bit} [lindex [get_hw_devices] 0]
+current_hw_device [lindex [get_hw_devices] 0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices] 0]
+set_property PROBES.FILE {} [lindex [get_hw_devices] 0]
+set_property PROGRAM.FILE {G:/files/DigitalLogic/finalhomework/os-app/os-app.runs/impl_1/top.bit} [lindex [get_hw_devices] 0]
+program_hw_devices [lindex [get_hw_devices] 0]
+refresh_hw_device [lindex [get_hw_devices] 0]

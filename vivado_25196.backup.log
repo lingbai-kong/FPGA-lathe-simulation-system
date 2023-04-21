@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Mon Jan 06 11:07:18 2020
+# Process ID: 25196
+# Current directory: C:/Users/HP/Desktop/数字逻辑综合实验/os-app
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13660 C:\Users\HP\Desktop\数字逻辑综合实验\os-app\os-app.xpr
+# Log file: C:/Users/HP/Desktop/数字逻辑综合实验/os-app/vivado.log
+# Journal file: C:/Users/HP/Desktop/数字逻辑综合实验/os-app\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/HP/Desktop/数字逻辑综合实验/os-app/os-app.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/HP/Desktop/os-app' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2016.2/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:06 . Memory (MB): peak = 846.379 ; gain = 143.164
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Jan 06 11:08:01 2020...
